@@ -2,9 +2,20 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E3A6AE&center=true&vCenter=true&random=false&width=524&lines=HELLO,+My+name+is+Sabrina+Moura;I+study+systems+development;I'm+18+years+old;" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3A6AE&width=435&lines=%C2%B0%E2%9D%80%E2%8B%86Welcome+to+my+profile!.%E0%B3%83%E0%BF%94%E0%AA%9C%E2%81%80%E2%9E%B4;Hello%2C+My+name+is+Sabrina+Moura;I+study+systems+development+%E2%98%95%EF%B8%8E;++++++++++++I'm+18+years+old.%E2%8B%86.+%F0%90%99%9A+%CB%9A" alt="Typing SVG">
   </a>
 </div>
+
+#
+
+<p align="center">Olá, me chamo Sabrina! Sou de São Paulo e, atualmente, estou estudando Análise e Desenvolvimento de Sistemas no curso "Dev em Dobro". Estou muito animada com essa jornada, aprendendo cada vez mais sobre o mundo da tecnologia e desenvolvendo habilidades essenciais para a área.
+Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em busca de novos desafios. Tenho paixão por aprender e aplicar meus conhecimentos para evoluir constantemente no campo da tecnologia.
+
+
+  
+#
+
+
 
 
 ### 📊 Estatísticas
