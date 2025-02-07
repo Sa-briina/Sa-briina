@@ -48,7 +48,9 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
 
 ##
 
-
+<img align="right" src="https://github.com/user-attachments/assets/8b10099e-a39b-4f51-98ea-339734f58043" width="385">
+  </a>
+  
  <h3> ↪ Connect with me!𔘓 </h28> 
  <br>
   <br>
@@ -82,17 +84,9 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
   <img width="8" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
-
-
-
-
+ <br>
+<br>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&reversal=false&textBg=false&fontColor=f2b&section=footer"/>
 
