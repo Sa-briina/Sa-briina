@@ -1,4 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&reversal=false&textBg=false&fontColor=f2b&section=header"/>
+
+<img align="right" src="https://github.com/user-attachments/assets/2d121a1a-74ce-4e0f-8162-577e46019ee2" width="75">
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E3A6AE&width=435&lines=%C2%B0%E2%9D%80%E2%8B%86Welcome+to+my+profile!.%E0%B3%83%E0%BF%94%E0%AA%9C%E2%81%80%E2%9E%B4;Hello%2C+My+name+is+Sabrina+Moura;I+study+systems+development+%E2%98%95%EF%B8%8E;++++++++++++I'm+18+years+old.%E2%8B%86.+%F0%90%99%9A+%CB%9A" alt="Typing SVG">
