@@ -88,5 +88,7 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
 <br>
 <br>
 
+<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&reversal=false&textBg=false&fontColor=f2b&section=footer"/>
 
