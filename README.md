@@ -28,18 +28,23 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="160" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
