@@ -48,19 +48,6 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-<br>
-
-
 
 ##
 
