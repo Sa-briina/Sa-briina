@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flores ao Vento</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #87CEEB;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #87CEEB;
+        }
+
+        .flower {
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            background-color: pink;
+            clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+            animation: float 5s ease-in-out infinite, drift 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(0) rotate(0deg);
+            }
+            100% {
+                transform: translateY(-100vh) rotate(360deg);
+            }
+        }
+
+        @keyframes drift {
+            0% {
+                transform: translateX(0);
+            }
+            50% {
+                transform: translateX(100vw);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <script>
+        // Função para criar flores aleatórias
+        function createFlower() {
+            const flower = document.createElement('div');
+            flower.classList.add('flower');
+
+            // Posicionar a flor aleatoriamente no topo
+            const xPosition = Math.random() * window.innerWidth;
+            const animationDuration = Math.random() * 5 + 5; // Entre 5s e 10s
+            flower.style.left = `${xPosition}px`;
+            flower.style.animationDuration = `${animationDuration}s`;
+
+            // Adicionar a flor ao body
+            document.body.appendChild(flower);
+
+            // Remover a flor após o final da animação
+            setTimeout(() => {
+                flower.remove();
+            }, animationDuration * 1000);
+        }
+
+        // Criar flores a cada 200ms
+        setInterval(createFlower, 200);
+
+    </script>
+</body>
+</html>
