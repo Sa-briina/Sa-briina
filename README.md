@@ -48,6 +48,12 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ##
 
@@ -88,7 +94,7 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
   <img width="8" />
 </div>
 
- <br>
+<br>
 <br>
 <br>
 
