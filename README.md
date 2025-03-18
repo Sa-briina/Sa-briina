@@ -28,7 +28,7 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
   />
@@ -36,7 +36,7 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="160" 
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
@@ -54,7 +54,7 @@ Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em b
 
 ##
 
-<img align="right" src="https://github.com/user-attachments/assets/8b10099e-a39b-4f51-98ea-339734f58043" width="385">
+<img align="right" src="https://github.com/user-attachments/assets/38e7ea86-a3eb-40ba-9a50-0892f9fee0e8" width="385">
   </a>
   
  <h3> ↪ Connect with me!𔘓 </h28> 
