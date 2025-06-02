@@ -6,17 +6,17 @@
   </br></br>
   <!-- Email -->
   <a href="mailto:sabrinanoniw@gmail.com">
-    <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/ema1.svg" width="310px"/>
+    <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/ema1.svg" width="250px"/>
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sabrina-moura-894525368/">
-    <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/link3.svg" width="310px"/>
+    <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/link3.svg" width="250px"/>
   </a>
   
   <!-- Website -->
   <a href="https://sa-briina.github.io/">
-    <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/web2.svg" width="310px"/>
+    <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/web2.svg" width="250px"/>
   </a>
   </br></br></br>
 </p>
