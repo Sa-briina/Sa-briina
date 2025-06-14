@@ -88,7 +88,11 @@
 <img align="right" src="https://github.com/user-attachments/assets/38e7ea86-a3eb-40ba-9a50-0892f9fee0e8" width="385">
   </a>
   
- <h3> ↪ Connect with me!𔘓 </h28> 
+<h3> 
+  <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/setarosa.webp" width="25" style="vertical-align:middle"/> 
+  Connect with me! 
+     <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/emailrosa.webp" width="28" style="vertical-align:middle; margin-left:2px"
+</h3>
  <br>
   <br>
 <div> 
@@ -112,7 +116,7 @@
 
 ##
 
-### ˗ˏˋ Linguagens que estou Estudando ˎˊ˗
+### <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/brilhos.webp" width="25" style="vertical-align:middle"/> Linguagens que estou Estudando <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/brilhos.webp" width="25" style="vertical-align:middle"/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="8" />
@@ -126,5 +130,7 @@
 <br>
 <br>
 
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+<h6 align="center">
+  <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/gatopulando.webp" alt="Gato" width="50"/> Show ❤️ by 🌟 my repositories!
+</h6>
 
