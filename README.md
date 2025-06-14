@@ -4,12 +4,12 @@
 
 
 
+    
 <div align="center">
   <a href="https://github.com/SabrinaMoura1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=WindSong&size=24&duration=6000&pause=2000&color=E3A6AE&center=true&width=500&height=100&lines=Welcome+to+my+profile!;Hello%2C+My+name+is+Sabrina+Moura;I+study+systems+development;I'm+19+years+old;In+my+free+time%2C+I+like+reading+and+gaming;Hearts+speak+softly+in+shared+silence;—just+the+echo+of+being+near." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=WindSong&size=24&duration=6000&pause=2000&color=E3A6AE&center=true&width=500&height=100&lines=Welcome+to+my+profile!;Hello%2C+My+name+is+Sabrina+Moura;I+study+systems+development;I'm+19+years+old;In+my+free+time%2C+I+like+reading+and+gaming;Hearts+speak+softly+in+shared+silence;—just+the+echo+of+being+near." alt="Typing SVG">
   </a>
 </div>
-
 
 
 
@@ -40,9 +40,13 @@
 
 #
 
-<p align="center">Olá, me chamo Sabrina! Sou de São Paulo e atualmente estou estudando Análise e Desenvolvimento de Sistemas no curso "Dev em Dobro". Estou muito animada com essa jornada, aprendendo cada vez mais sobre o mundo da tecnologia e desenvolvendo habilidades essenciais para a área.
-Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em busca de novos desafios. Tenho paixão por aprender e aplicar meus conhecimentos para evoluir constantemente no campo da tecnologia.
-
+<p align="center">
+  <span style="display: inline-flex; align-items: center;">
+    <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/coelho.webp?raw=true" width="35" style="margin-right: 5px;" />
+    Olá, me chamo Sabrina! Sou de São Paulo e atualmente estou estudando Análise e Desenvolvimento de Sistemas no curso "Dev em Dobro". Estou muito animada com essa jornada, aprendendo cada vez mais sobre o mundo da tecnologia e desenvolvendo habilidades essenciais para a área.
+    Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em busca de novos desafios. Tenho paixão por aprender e aplicar meus conhecimentos para evoluir constantemente no campo da tecnologia.
+  </span>
+</p>
 
   
 #
