@@ -138,3 +138,4 @@
   <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/gatopulando.webp" alt="Gato" width="50"/> Show ❤️ by 🌟 my repositories!
 </h6>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&section=footer&textBg=false"/>
