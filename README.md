@@ -81,23 +81,25 @@
   </tr>
 </table>
 
+
 ##
 
-<img align="right" src="https://github.com/user-attachments/assets/38e7ea86-a3eb-40ba-9a50-0892f9fee0e8" width="385">
-  </a>
-  
+<img align="right" src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/computer.gif" width="448" target="_blank">
+
 <h3> 
-  <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/setarosa.webp" width="25" style="vertical-align:middle"/> 
+  <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/setarosa.webp" width="25" style="vertical-align:middle"/>
   Connect with me! 
      <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/emailrosa.webp" width="28" style="vertical-align:middle; margin-left:2px"
 </h3>
+     
  <br>
+    
   <br>
 <div> 
-  <a href="https://www.instagram.com/s4yree" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/s4yree" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/9ZAGgFszEQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sabrinanoniw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-4587501" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-4587501" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -110,6 +112,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="8" />
 </div>
+
+
+ <br>
+ <br>
 
 
 ##
