@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=128&color=E3A6AE&reversal=false&textBg=false&fontColor=f2b&section=header"/>
 
-<img align="right" src="https://github.com/user-attachments/assets/2d121a1a-74ce-4e0f-8162-577e46019ee2" width="75">
+
 
 
 
@@ -88,7 +88,7 @@
 
 <h3> 
   <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/setarosa.webp" width="25" style="vertical-align:middle"/>
-  Connect with me! 
+  Entre em contato comigo!
      <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/emailrosa.webp" width="28" style="vertical-align:middle; margin-left:2px"
 </h3>
      
