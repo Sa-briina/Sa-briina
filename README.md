@@ -55,23 +55,31 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9&locale=pt-br"
-  />
-  <img
-    alt="Flores decorativas"
-    height="160"
-    src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/flores1.png"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="160" 
+        src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Languages" 
+        height="160" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9" 
+      />
+    </td>
+    <td>
+      <img
+        alt="Flores decorativas"
+        height="160"
+        src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/flores1.png"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
