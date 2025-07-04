@@ -44,7 +44,7 @@
 />
 <img 
   alt="Top Languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9&locale=pt-br" 
   style="height: 170px !important; width: auto !important;" 
 />
 
