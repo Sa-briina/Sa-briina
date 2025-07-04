@@ -37,11 +37,23 @@
 
 ### 📊 Estatísticas
 
-| Estatísticas | Linguagens mais usadas | Flores |
-|--------------|------------------------|--------|
-| <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" /> | <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9" /> | <img alt="Flores decorativas" height="160" src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/flores1.png" /> |
+<img 
+  alt="GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
+  style="height: 170px !important; width: auto !important;" 
+/>
+<img 
+  alt="Top Languages" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9" 
+  style="height: 170px !important; width: auto !important;" 
+/>
 
-##
+
+
+
+
+
+#
 
 <img align="right" src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/computer.gif" width="448" target="_blank">
 
