@@ -35,20 +35,17 @@
 
 #
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<img 
-  alt="GitHub Stats" 
-  src="https://github-readme-stats.vercel.app/api?username=Sa-briina&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
-  style="height: 170px !important; width: auto !important;" 
-/>
-<img 
-  alt="Top Languages" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-briina&theme=rose&layout=compact&langs_count=9&locale=pt-br" 
-  style="height: 170px !important; width: auto !important;" 
+<img
+  src="https://github-readme-stats-defcon27.vercel.app/api?username=Sa-briina&show_icons=true&theme=dracula&include_all_commits=true"
+  style="height: 170px; width: 380px;"
 />
 
-
+<img
+  src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Sa-briina&layout=compact&theme=dracula"
+  style="height: 170px; width: 380px;"
+/>
 
 
 
