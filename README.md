@@ -37,16 +37,16 @@
 
 ## 📊 Estatísticas
 
-<img
-  src="https://github-readme-stats-defcon27.vercel.app/api?username=Sa-briina&show_icons=true&theme=dracula&include_all_commits=true"
-  style="height: 170px; width: 380px;"
-/>
-
-<img
-  src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Sa-briina&layout=compact&theme=dracula"
-  style="height: 170px; width: 380px;"
-/>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats-defcon27.vercel.app/api?username=Sa-briina&show_icons=true&theme=dracula&include_all_commits=true"
+    width="480"
+  />
+  <img
+    src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Sa-briina&layout=compact&theme=dracula"
+    width="480"
+  />
+</p>
 
 
 
