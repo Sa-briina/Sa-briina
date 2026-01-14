@@ -35,7 +35,7 @@
 
 #
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img
@@ -57,7 +57,7 @@
 <h3> 
   <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/setarosa.webp" width="25" style="vertical-align:middle"/>
   Entre em contato comigo!
-  <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/emailrosa.webp" width="28" style="vertical-align:middle; margin-left:2px"/>
+ 
 </h3>
      
 <div> 
