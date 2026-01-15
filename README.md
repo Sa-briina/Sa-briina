@@ -27,7 +27,6 @@
 
 <p align="center">
   <span style="display: inline-flex; align-items: center;">
-    <img src="https://github.com/Sa-briina/Sa-briina/blob/main/social-badges/imagens/coelho.webp?raw=true" width="35" style="margin-right: 5px;" />
     Olá, me chamo Sabrina! Sou de São Paulo e atualmente estou estudando Análise e Desenvolvimento de Sistemas no curso "Dev em Dobro". Estou muito animada com essa jornada, aprendendo cada vez mais sobre o mundo da tecnologia e desenvolvendo habilidades essenciais para a área.
     Atualmente, estou aprendendo as linguagens HTML, CSS e Java, e estou sempre em busca de novos desafios. Tenho paixão por aprender e aplicar meus conhecimentos para evoluir constantemente no campo da tecnologia.
   </span>
