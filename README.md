@@ -18,7 +18,7 @@
   </a>
   
   <!-- Website -->
-  <a href="https://sa-briina-github-io.pages.dev/">
+  <a href="">
     <img src="https://raw.githubusercontent.com/Sa-briina/Sa-briina/main/social-badges/imagens/web2.svg" width="250px"/>
   </a>
 </p>
